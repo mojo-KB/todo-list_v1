@@ -1,9 +1,0 @@
-{
-  "name": "todo-list_v1",
-  "version": "1.0.0",
-  "description": "Todo list application ",
-  "main": "index.js",
-  "repository": "https://github.com/mojo-KB/todo-list_v1.git",
-  "author": "mojo-KB <56409448+mojo-KB@users.noreply.github.com>",
-  "license": "MIT"
-}
